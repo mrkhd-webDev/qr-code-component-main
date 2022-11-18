@@ -25,7 +25,6 @@ body {
   display: flex;
   flex-direction: column;
   background: hsl(0deg, 0%, 100%);
-  margin: 10rem auto;
   padding: 1.5rem;
   border-radius: 1.5rem;
   max-width: 32rem;
@@ -51,4 +50,4 @@ body {
 
 .attribution {
   text-align: center;
-} /*# sourceMappingURL=styles.css.map */
+}/*# sourceMappingURL=styles.css.map */
